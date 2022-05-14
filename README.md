@@ -1,4 +1,5 @@
 # UFOS
+Create a webpage and table using HTML and javascript.
 
 # Overview of Project: 
 
@@ -9,6 +10,10 @@ This project aims to create a webpage and dynamic table that provides a thorough
 # Results:
 
 There is a filter search box on the web page to the left of the table, and users can enter a date, city, state, country, or shape, then press the enter. The results will show according to the user's search criteria. 
+
+<img width="1725" alt="Screen Shot 2022-05-14 at 11 41 46 AM" src="https://user-images.githubusercontent.com/100738688/168438880-191ad7cd-5281-4f7a-90fb-7f113123a4f7.png">
+
+
 The following is the example: Here i have entered san diego ,ca and us in filter search.
 
 <img width="1728" alt="Screen Shot 2022-05-14 at 11 24 38 AM" src="https://user-images.githubusercontent.com/100738688/168436520-79db4a0c-599c-42a2-86c0-df3fd8a2b8ac.png">
