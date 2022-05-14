@@ -8,7 +8,10 @@ This project aims to create a webpage and dynamic table that provides a thorough
 
 # Results:
 
-There is a filter search box on the web page to the left of the table, and users can enter a date, city, state, country, or shape, then press the enter. The results will show according to the user's search criteria. The following are the examples:
+There is a filter search box on the web page to the left of the table, and users can enter a date, city, state, country, or shape, then press the enter. The results will show according to the user's search criteria. The following is the example: Here i have entered san diego , us and 1/10/2010 in filter search.
+
+<img width="1728" alt="Screen Shot 2022-05-14 at 11 24 38 AM" src="https://user-images.githubusercontent.com/100738688/168436520-79db4a0c-599c-42a2-86c0-df3fd8a2b8ac.png">
+
 # Summary:
 
 * The drawback I found in the enter city search filter is that it is case-sensitive, and we have to enter the city names precisely in the table. For instance, if I enter the city name Sandiego or SAN DIEGO, I don't get any results, but I can see the results if I add san diego.
