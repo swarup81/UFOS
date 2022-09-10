@@ -16,6 +16,8 @@ The following is the example: Here i have entered san diego ,ca and us in filter
 
 <img width="1728" alt="Screen Shot 2022-05-14 at 11 24 38 AM" src="https://user-images.githubusercontent.com/100738688/168436520-79db4a0c-599c-42a2-86c0-df3fd8a2b8ac.png">
 
+[link](file:///Users/swarupdinesh/Desktop/ufos/index.html)
+
 # Summary:
 
 * The drawback I found in the enter city search filter is that it is case-sensitive, and we have to enter the city names precisely in the table. For instance, if I enter the city name Sandiego or SAN DIEGO, I don't get any results, but I can see the results if I add san diego.
