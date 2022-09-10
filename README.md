@@ -17,7 +17,7 @@ The following is the example: Here i have entered san diego ,ca and us in filter
 <img width="1728" alt="Screen Shot 2022-05-14 at 11 24 38 AM" src="https://user-images.githubusercontent.com/100738688/168436520-79db4a0c-599c-42a2-86c0-df3fd8a2b8ac.png">
 
 
-[link](file:///Users/swarupdinesh/Desktop/ufos/index.html)
+[link](http://127.0.0.1:5500/index.html)
 
 
 # Summary:
